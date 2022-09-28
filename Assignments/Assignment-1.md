@@ -7,7 +7,7 @@ The figures below are the deliverables for part i) of the assignment. They inclu
 ![Percent-FW](https://user-images.githubusercontent.com/105950235/192600595-f47e9ad4-38fd-4f11-9a51-ee2186510d4c.png)
 
 ## ii) Write Up
-This section includes interpretation of the above figures.
+From the maps above, we can see that most 311 complaints were filed in parts of Brooklyn, Queens and the Bronx. Even though firework complaints were also received from these areas, a significant number of firework complaints were recorded in Staten Island. When looking at the percentage of firework complaints, it was interesting to see that even though parts of Brooklyn, Queens, and the Bronx had a high number of firework complants, the percentage of firework complaints was not as wiidespread. This made sense since these areas also had a high number of 311 complaints. It also makes sense that the percentage of firework complaints is high in Staten Island since a high number of firework complaints and a low number of 311 complaints were recorded. 
 
 ## iii) Improvements
-This section includes details on any improvements that can be made for better data visualization and understanding.
+A map depicting time series of firework complaints would add to the insights developed from this data. Important nuumbers can be highlighted, like for the darker colours making it easier to understand what numbers or percentages are considered high. Even though this is already listed in the legend, this would make the map easier to read and understand. 
