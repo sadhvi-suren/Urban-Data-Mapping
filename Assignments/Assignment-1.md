@@ -1,3 +1,4 @@
+# Assignment 1
 ## i) Maps
 The figures below are the deliverables for part i) of the assignment. They include maps depicting 311 complaints, firework complaints and the percentage of firework complaints in the 311 complaints. These maps were created using datasets from NYC Open Data and QGIS.
 
